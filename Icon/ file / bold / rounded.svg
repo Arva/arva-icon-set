@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon / file / bold / rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-/-file-/-bold-/-rounded">
+            <g id="Grid"></g>
+            <path d="M6,2 L6,22 L18,22 L18,6.82842712 L13.1715729,2 L6,2 Z M6,0 L13.1715729,0 C13.7020059,-9.74389576e-17 14.2107137,0.210713681 14.5857864,0.585786438 L19.4142136,5.41421356 C19.7892863,5.78928632 20,6.29799415 20,6.82842712 L20,22 C20,23.1045695 19.1045695,24 18,24 L6,24 C4.8954305,24 4,23.1045695 4,22 L4,2 C4,0.8954305 4.8954305,2.02906125e-16 6,0 Z" id="Rectangle" fill="#141414" fill-rule="nonzero"></path>
+            <path d="M14,4 L14,6 L16,6 C16,7.1045695 15.1045695,8 14,8 C12.8954305,8 12,7.1045695 12,6 C12,4.8954305 12.8954305,4 14,4 Z" id="Combined-Shape" fill="#141414"></path>
+            <rect id="Rectangle-15-Copy" fill="#141414" x="14" y="6" width="4" height="2"></rect>
+            <rect id="Rectangle-3" fill="#141414" x="12" y="2" width="2" height="4"></rect>
+        </g>
+    </g>
+</svg>

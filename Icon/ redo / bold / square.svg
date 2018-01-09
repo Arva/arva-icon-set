@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon / redo / bold / square</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-/-redo-/-bold-/-square">
+            <g id="Grid"></g>
+            <path d="M5.34289306,2.01433959 L6.45241088,3.67861632 C3.76797338,5.47180573 2,8.52943671 2,12 C2,17.5228475 6.4771525,22 12,22 C17.5228475,22 22,17.5228475 22,12 C22,6.4771525 17.5228475,2 12,2 L12,0 C18.627417,0 24,5.372583 24,12 C24,18.627417 18.627417,24 12,24 C5.372583,24 0,18.627417 0,12 C0,7.83532405 2.12156806,4.16616688 5.34289306,2.01433959 Z" id="Combined-Shape" fill="#141414"></path>
+            <polygon id="Line" fill="#141414" fill-rule="nonzero" points="5 4 0 4 0 2 7 2 7 9 5 9"></polygon>
+        </g>
+    </g>
+</svg>

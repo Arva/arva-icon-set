@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon / pie / thin / square</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-/-pie-/-thin-/-square">
+            <g id="Grid"></g>
+            <path d="M12.5,11.5 L22,11.5 L22,12 C22,17.5228475 17.5228475,22 12,22 C6.4771525,22 2,17.5228475 2,12 C2,6.4771525 6.4771525,2 12,2 L12.5,2 L12.5,11.5 Z M3,12 C3,16.9705627 7.02943725,21 12,21 C16.8027842,21 20.726905,17.2379945 20.9863458,12.5 L11.5,12.5 L11.5,3.01365419 C6.76200548,3.27309504 3,7.19721579 3,12 Z" id="Oval" fill="#141414" fill-rule="nonzero"></path>
+            <path d="M24,10 L24,10.5 L13.5,10.5 L13.5,0 L14,0 C19.5228475,0 24,4.4771525 24,10 Z M14.5,1.01365419 L14.5,9.5 L22.9863458,9.5 C22.7359682,4.92752068 19.0724793,1.26403184 14.5,1.01365419 Z" id="Oval-2" fill="#141414" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

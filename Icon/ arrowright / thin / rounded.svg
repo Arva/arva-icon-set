@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon / arrowright / thin / rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-/-arrowright-/-thin-/-rounded">
+            <g id="Grid"></g>
+            <path d="M0.5,12.5 L23.5,12.5 C23.7761424,12.5 24,12.2761424 24,12 C24,11.7238576 23.7761424,11.5 23.5,11.5 L0.5,11.5 C0.223857625,11.5 0,11.7238576 0,12 C0,12.2761424 0.223857625,12.5 0.5,12.5 Z" id="Line-2" fill="#141414" fill-rule="nonzero"></path>
+            <path d="M17.1464466,17.6464466 C16.9511845,17.8417088 16.9511845,18.1582912 17.1464466,18.3535534 C17.3417088,18.5488155 17.6582912,18.5488155 17.8535534,18.3535534 L23.8535534,12.3535534 C24.0488155,12.1582912 24.0488155,11.8417088 23.8535534,11.6464466 L17.8535534,5.64644661 C17.6582912,5.45118446 17.3417088,5.45118446 17.1464466,5.64644661 C16.9511845,5.84170876 16.9511845,6.15829124 17.1464466,6.35355339 L22.7928932,12 L17.1464466,17.6464466 Z" id="Line" fill="#141414" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

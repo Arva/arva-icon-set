@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon / notification / bold / square</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-/-notification-/-bold-/-square">
+            <g id="Grid"></g>
+            <path d="M18,18.8284271 L18,10 C18,6.6862915 15.3137085,4 12,4 C8.6862915,4 6,6.6862915 6,10 L6,18.8284271 L4.82842712,20 L19.1715729,20 L18,18.8284271 Z M20,18 L24,22 L0,22 L4,18 L4,10 C4,5.581722 7.581722,2 12,2 C16.418278,2 20,5.581722 20,10 L20,18 Z" id="Combined-Shape" fill="#141414" fill-rule="nonzero"></path>
+            <rect id="Rectangle-2" fill="#141414" x="10" y="0" width="4" height="4"></rect>
+            <rect id="Rectangle-2" fill="#141414" x="10" y="20" width="4" height="4"></rect>
+        </g>
+    </g>
+</svg>

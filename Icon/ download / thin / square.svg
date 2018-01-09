@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon / download / thin / square</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-/-download-/-thin-/-square">
+            <g id="Grid"></g>
+            <rect id="Rectangle-8" fill="#141414" x="2" y="23" width="20" height="1"></rect>
+            <rect id="Rectangle" fill="#141414" x="11.5" y="0" width="1" height="21"></rect>
+            <polygon id="Line" fill="#141414" fill-rule="nonzero" points="6 14.2928932 5.29289322 15 12 21.7071068 18.7071068 15 18 14.2928932 12 20.2928932"></polygon>
+        </g>
+    </g>
+</svg>

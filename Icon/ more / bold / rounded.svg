@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon / more / bold / rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-/-more-/-bold-/-rounded">
+            <g id="Grid"></g>
+            <circle id="Oval-3" fill="#141414" cx="3" cy="12" r="3"></circle>
+            <circle id="Oval-3-Copy" fill="#141414" cx="12" cy="12" r="3"></circle>
+            <circle id="Oval-3-Copy-2" fill="#141414" cx="21" cy="12" r="3"></circle>
+        </g>
+    </g>
+</svg>

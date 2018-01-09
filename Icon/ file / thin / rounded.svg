@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon / file / thin / rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-/-file-/-thin-/-rounded">
+            <g id="Grid"></g>
+            <rect id="Rectangle" fill="#141414" x="13" y="1" width="1" height="4"></rect>
+            <rect id="Rectangle-3" fill="#141414" x="15" y="6" width="4" height="1"></rect>
+            <path d="M13,5 C13,6.1045695 13.8954305,7 15,7 L15,6 C14.4477153,6 14,5.55228475 14,5 L13,5 Z" id="Oval-2" fill="#141414" fill-rule="nonzero"></path>
+            <path d="M6,1 C5.44771525,1 5,1.44771525 5,2 L5,22 C5,22.5522847 5.44771525,23 6,23 L18,23 C18.5522847,23 19,22.5522847 19,22 L19,6.82842712 C19,6.56321063 18.8946432,6.30885672 18.7071068,6.12132034 L13.8786797,1.29289322 C13.6911433,1.10535684 13.4367894,1 13.1715729,1 L6,1 Z M6,0 L13.1715729,0 C13.7020059,-9.74389576e-17 14.2107137,0.210713681 14.5857864,0.585786438 L19.4142136,5.41421356 C19.7892863,5.78928632 20,6.29799415 20,6.82842712 L20,22 C20,23.1045695 19.1045695,24 18,24 L6,24 C4.8954305,24 4,23.1045695 4,22 L4,2 C4,0.8954305 4.8954305,2.02906125e-16 6,0 Z" id="Rectangle" fill="#141414" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

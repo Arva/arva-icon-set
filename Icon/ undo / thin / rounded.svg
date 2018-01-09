@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon / undo / thin / rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-/-undo-/-thin-/-rounded">
+            <g id="Grid"></g>
+            <path d="M19,3 L19,7.5 C19,7.77614237 18.7761424,8 18.5,8 C18.2238576,8 18,7.77614237 18,7.5 L18,2.5 C18,2.22385763 18.2238576,2 18.5,2 L23.5,2 C23.7761424,2 24,2.22385763 24,2.5 C24,2.77614237 23.7761424,3 23.5,3 L19,3 Z" id="Line" fill="#141414" fill-rule="nonzero"></path>
+            <path d="M12,0 C12.2761424,0 12.5,0.223857625 12.5,0.5 C12.5,0.776142375 12.2761424,1 12,1 C5.92486775,1 1,5.92486775 1,12 C1,18.0751322 5.92486775,23 12,23 C18.0751322,23 23,18.0751322 23,12 C23,8.65053325 21.4943201,5.54878791 18.9481622,3.47175721 C18.7341851,3.29720518 18.7022247,2.98224009 18.8767768,2.76826299 C19.0513288,2.55428588 19.3662939,2.52232553 19.580271,2.69687756 C22.3568185,4.96184875 24,8.3468516 24,12 C24,18.627417 18.627417,24 12,24 C5.372583,24 0,18.627417 0,12 C0,5.372583 5.372583,0 12,0 Z" id="Oval-2" fill="#141414" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon / shareios / bold / square</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-/-shareios-/-bold-/-square">
+            <g id="Grid"></g>
+            <rect id="Rectangle-2" fill="#141414" x="11" y="1.91421356" width="2" height="13"></rect>
+            <polygon id="Line" fill="#141414" fill-rule="nonzero" points="15 5.82842712 16.4142136 4.41421356 12 0 7.58578644 4.41421356 9 5.82842712 12 2.82842712"></polygon>
+            <polygon id="Rectangle" fill="#141414" points="4 6 8 6 8 8 6 8 6 20 18 20 18 8 16 8 16 6 20 6 20 22 4 22"></polygon>
+        </g>
+    </g>
+</svg>

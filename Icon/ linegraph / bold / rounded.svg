@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon / linegraph / bold / rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-/-linegraph-/-bold-/-rounded">
+            <g id="Grid"></g>
+            <path d="M3,24 L21,24 C21.5522847,24 22,23.5522847 22,23 C22,22.4477153 21.5522847,22 21,22 L3,22 C2.44771525,22 2,22.4477153 2,23 C2,23.5522847 2.44771525,24 3,24 Z" id="Line-4" fill="#141414" fill-rule="nonzero"></path>
+            <polygon id="Line-3" fill="#141414" fill-rule="nonzero" points="16.17667 15.1159607 14.5979655 13.8880794 20.8272643 5.87898103 22.4059687 7.10686226"></polygon>
+            <polygon id="Line" fill="#141414" fill-rule="nonzero" points="3.17524141 18.1177974 1.59653697 16.8899161 7.82585628 8.88079131 9.40456072 10.1086725"></polygon>
+            <polygon id="Line-2" fill="#141414" fill-rule="nonzero" points="9.08578644 10.5 10.5 9.08578644 14.9142136 13.5 13.5 14.9142136"></polygon>
+            <circle id="Oval-16" fill="#141414" cx="2" cy="18" r="2"></circle>
+            <circle id="Oval-16" fill="#141414" cx="15" cy="15" r="2"></circle>
+            <circle id="Oval-16" fill="#141414" cx="9" cy="9" r="2"></circle>
+            <circle id="Oval-16" fill="#141414" cx="22" cy="6" r="2"></circle>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon / phone / bold / square</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-/-phone-/-bold-/-square">
+            <g id="Grid"></g>
+            <path d="M7,2 L7,22 L17,22 L17,2 L7,2 Z M5,0 L19,0 L19,24 L5,24 L5,0 Z" id="Rectangle" fill="#141414" fill-rule="nonzero"></path>
+            <rect id="Rectangle-2" fill="#141414" x="11" y="19" width="2" height="2"></rect>
+        </g>
+    </g>
+</svg>

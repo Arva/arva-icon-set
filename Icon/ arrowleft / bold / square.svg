@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon / arrowleft / bold / square</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-/-arrowleft-/-bold-/-square">
+            <g id="Grid"></g>
+            <rect id="Rectangle-2" fill="#141414" x="2" y="11" width="22" height="2"></rect>
+            <polygon id="Line-2" fill="#141414" fill-rule="nonzero" points="8.91421356 6 7.5 4.58578644 0.0857864376 12 7.5 19.4142136 8.91421356 18 2.91421356 12"></polygon>
+        </g>
+    </g>
+</svg>

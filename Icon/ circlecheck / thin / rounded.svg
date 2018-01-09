@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon / circlecheck / thin / rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-/-circlecheck-/-thin-/-rounded">
+            <g id="Grid"></g>
+            <path d="M12,23 C18.0751322,23 23,18.0751322 23,12 C23,5.92486775 18.0751322,1 12,1 C5.92486775,1 1,5.92486775 1,12 C1,18.0751322 5.92486775,23 12,23 Z M12,24 C5.372583,24 0,18.627417 0,12 C0,5.372583 5.372583,0 12,0 C18.627417,0 24,5.372583 24,12 C24,18.627417 18.627417,24 12,24 Z" id="Oval-6" fill="#141414" fill-rule="nonzero"></path>
+            <path d="M11,14.2928932 L16.1464466,9.14644661 C16.3417088,8.95118446 16.6582912,8.95118446 16.8535534,9.14644661 C17.0488155,9.34170876 17.0488155,9.65829124 16.8535534,9.85355339 L11.3535534,15.3535534 C11.1582912,15.5488155 10.8417088,15.5488155 10.6464466,15.3535534 L7.64644661,12.3535534 C7.45118446,12.1582912 7.45118446,11.8417088 7.64644661,11.6464466 C7.84170876,11.4511845 8.15829124,11.4511845 8.35355339,11.6464466 L11,14.2928932 Z" id="Line" fill="#141414" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

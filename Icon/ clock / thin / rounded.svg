@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon / clock / thin / rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-/-clock-/-thin-/-rounded">
+            <g id="Grid"></g>
+            <path d="M12.5,4.5 C12.5,4.22385763 12.2761424,4 12,4 C11.7238576,4 11.5,4.22385763 11.5,4.5 L11.5,12 C11.5,12.2044523 11.6244755,12.3883067 11.8143047,12.4642383 L16.8143047,14.4642383 C17.0706964,14.566795 17.3616816,14.4420871 17.4642383,14.1856953 C17.566795,13.9293036 17.4420871,13.6383184 17.1856953,13.5357617 L12.5,11.6614835 L12.5,4.5 Z" id="Line" fill="#141414" fill-rule="nonzero"></path>
+            <path d="M12,23 C18.0751322,23 23,18.0751322 23,12 C23,5.92486775 18.0751322,1 12,1 C5.92486775,1 1,5.92486775 1,12 C1,18.0751322 5.92486775,23 12,23 Z M12,24 C5.372583,24 0,18.627417 0,12 C0,5.372583 5.372583,0 12,0 C18.627417,0 24,5.372583 24,12 C24,18.627417 18.627417,24 12,24 Z" id="Oval-6" fill="#141414" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

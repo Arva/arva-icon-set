@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon / message / bold / square</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-/-message-/-bold-/-square">
+            <g id="Grid"></g>
+            <path d="M20.1873158,16.672233 L20.7509722,15.8605069 C21.5699816,14.6810448 22,13.364187 22,12 C22,7.6705968 17.5952838,4 12,4 C6.40471616,4 2,7.6705968 2,12 C2,16.3294032 6.40471616,20 12,20 C14.1888145,20 16.2619452,19.4334356 17.9740262,18.4064589 L18.80237,17.9095842 L20.8298009,18.6716931 L20.1873158,16.672233 Z M12,22 C5.372583,22 0,17.5228475 0,12 C0,6.4771525 5.372583,2 12,2 C18.627417,2 24,6.4771525 24,12 C24,13.8219479 23.4153056,15.5300936 22.3937522,17.0012408 L24,22 L19.0028174,20.1215649 C17.0320676,21.3037018 14.6136113,22 12,22 Z" id="Oval" fill="#141414" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

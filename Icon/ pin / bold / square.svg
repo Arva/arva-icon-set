@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon / pin / bold / square</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-/-pin-/-bold-/-square">
+            <g id="Grid"></g>
+            <path d="M18,8 C18,4.6862915 15.3137085,2 12,2 C8.6862915,2 6,4.6862915 6,8 C6,11.6628671 7.96995983,15.9854834 12,20.9194505 C16.0300402,15.9854834 18,11.6628671 18,8 Z M12,24 C6.66666667,18 4,12.6666667 4,8 C4,3.581722 7.581722,0 12,0 C16.418278,0 20,3.581722 20,8 C20,12.6666667 17.3333333,18 12,24 Z" id="Oval-2" fill="#141414" fill-rule="nonzero"></path>
+            <path d="M12,10 C13.1045695,10 14,9.1045695 14,8 C14,6.8954305 13.1045695,6 12,6 C10.8954305,6 10,6.8954305 10,8 C10,9.1045695 10.8954305,10 12,10 Z M12,12 C9.790861,12 8,10.209139 8,8 C8,5.790861 9.790861,4 12,4 C14.209139,4 16,5.790861 16,8 C16,10.209139 14.209139,12 12,12 Z" id="Oval" fill="#141414" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon / star / bold / square</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-/-star-/-bold-/-square">
+            <g id="Grid"></g>
+            <path d="M7.48991389,18.207601 L12,15.9619206 L16.5100861,18.207601 L15.7680104,13.2243008 L19.2974726,9.62890741 L14.3287585,8.79473892 L12,4.3269832 L9.67124151,8.79473892 L4.70252737,9.62890741 L8.23198962,13.2243008 L7.48991389,18.207601 Z M12,18.1961349 L4.94657697,21.7082039 L6.10712556,13.914711 L0.587321804,8.29179607 L8.3580033,6.98722159 L12,0 L15.6419967,6.98722159 L23.4126782,8.29179607 L17.8928744,13.914711 L19.053423,21.7082039 L12,18.1961349 Z" id="Star" fill="#141414" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

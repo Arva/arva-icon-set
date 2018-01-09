@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon / shareandroid / bold / rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-/-shareandroid-/-bold-/-rounded">
+            <g id="Grid"></g>
+            <circle id="Oval-3-Copy" fill="#141414" cx="19" cy="5" r="3"></circle>
+            <circle id="Oval-3-Copy-2" fill="#141414" cx="19" cy="19" r="3"></circle>
+            <circle id="Oval-3-Copy-3" fill="#141414" cx="3" cy="12" r="3"></circle>
+            <path d="M19.376377,18.0735334 C19.8880504,18.2814007 20.1343339,18.8647037 19.9264666,19.376377 C19.7185993,19.8880504 19.1352963,20.1343339 18.623623,19.9264666 L2.62362295,13.4264666 C2.24660225,13.2733019 2,12.9069447 2,12.5 L2,11.5 C2,11.0930553 2.24660225,10.7266981 2.62362295,10.5735334 L18.623623,4.07353342 C19.1352963,3.86566612 19.7185993,4.11194959 19.9264666,4.62362295 C20.1343339,5.13529631 19.8880504,5.71859927 19.376377,5.92646658 L4.42614093,12 L19.376377,18.0735334 Z" id="Line" fill="#141414" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon / world / thin / rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-/-world-/-thin-/-rounded">
+            <g id="Grid"></g>
+            <path d="M12,23 C18.0751322,23 23,18.0751322 23,12 C23,5.92486775 18.0751322,1 12,1 C5.92486775,1 1,5.92486775 1,12 C1,18.0751322 5.92486775,23 12,23 Z M12,24 C5.372583,24 0,18.627417 0,12 C0,5.372583 5.372583,0 12,0 C18.627417,0 24,5.372583 24,12 C24,18.627417 18.627417,24 12,24 Z" id="Oval" fill="#141414" fill-rule="nonzero"></path>
+            <path d="M12,23 C14.5729965,23 17,18.145993 17,12 C17,5.85400697 14.5729965,1 12,1 C9.42700349,1 7,5.85400697 7,12 C7,18.145993 9.42700349,23 12,23 Z M12,24 C8.6862915,24 6,18.627417 6,12 C6,5.372583 8.6862915,0 12,0 C15.3137085,0 18,5.372583 18,12 C18,18.627417 15.3137085,24 12,24 Z" id="Oval-2" fill="#141414" fill-rule="nonzero"></path>
+            <rect id="Rectangle" fill="#141414" x="1" y="11.5" width="22" height="1"></rect>
+            <rect id="Rectangle-Copy" fill="#141414" x="2" y="5.5" width="20" height="1"></rect>
+            <rect id="Rectangle-Copy-2" fill="#141414" x="2" y="17.5" width="20" height="1"></rect>
+        </g>
+    </g>
+</svg>

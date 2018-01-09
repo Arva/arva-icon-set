@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon / shareandroid / bold / square</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-/-shareandroid-/-bold-/-square">
+            <g id="Grid"></g>
+            <circle id="Oval-3-Copy" fill="#141414" cx="19" cy="5" r="3"></circle>
+            <circle id="Oval-3-Copy-2" fill="#141414" cx="19" cy="19" r="3"></circle>
+            <circle id="Oval-3-Copy-3" fill="#141414" cx="3" cy="12" r="3"></circle>
+            <polygon id="Line" fill="#141414" fill-rule="nonzero" points="4.42614093 12 20.3028436 18.4499105 19.5500895 20.3028436 2 13.1731198 2 10.8268802 19.5500895 3.69715638 20.3028436 5.55008953"></polygon>
+        </g>
+    </g>
+</svg>

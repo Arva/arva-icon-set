@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon / send / thin / square</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-/-send-/-thin-/-square">
+            <g id="Grid"></g>
+            <path d="M3.85339789,3.94091231 L7.07703296,12 L3.85339789,20.0590877 L21.5833908,12 L3.85339789,3.94091231 Z M2,2 L24,12 L2,22 L6,12 L2,2 Z" id="Rectangle" fill="#141414" fill-rule="nonzero"></path>
+            <polygon id="Line" fill="#141414" fill-rule="nonzero" points="6 12.5 6 11.5 22.5 11.5 22.5 12.5"></polygon>
+        </g>
+    </g>
+</svg>

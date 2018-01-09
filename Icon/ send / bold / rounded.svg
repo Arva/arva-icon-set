@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon / send / bold / rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-/-send-/-bold-/-rounded">
+            <g id="Grid"></g>
+            <path d="M4.97711114,4.98628563 L7.91381155,11.5938615 C8.02872948,11.8524269 8.02872948,12.1475731 7.91381155,12.4061385 L4.97711114,19.0137144 L20.5631431,12 L4.97711114,4.98628563 Z M5.90568247,12 L2.08618845,3.40613847 C1.71335129,2.56725485 2.57321613,1.71136165 3.41036468,2.08807849 L23.4103647,11.0880785 C24.1965451,11.4418597 24.1965451,12.5581403 23.4103647,12.9119215 L3.41036468,21.9119215 C2.57321613,22.2886384 1.71335129,21.4327452 2.08618845,20.5938615 L5.90568247,12 Z" id="Rectangle-3" fill="#141414" fill-rule="nonzero"></path>
+            <polygon id="Line" fill="#141414" fill-rule="nonzero" points="6 13 6 11 23 11 23 13"></polygon>
+        </g>
+    </g>
+</svg>

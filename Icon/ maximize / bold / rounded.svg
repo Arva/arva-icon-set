@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon / maximize / bold / rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-/-maximize-/-bold-/-rounded">
+            <g id="Grid"></g>
+            <path d="M20,6 C20,4.8954305 19.1045695,4 18,4 L13,4 C12.4477153,4 12,3.55228475 12,3 C12,2.44771525 12.4477153,2 13,2 L18,2 C20.209139,2 22,3.790861 22,6 L22,11 C22,11.5522847 21.5522847,12 21,12 C20.4477153,12 20,11.5522847 20,11 L20,6 Z" id="Combined-Shape" fill="#141414" fill-rule="nonzero"></path>
+            <path d="M2,17.9999998 L2,13 C2,12.4477153 2.44771525,12 3,12 C3.55228475,12 4,12.4477153 4,13 L4,18 C4,19.1045695 4.8954305,20 6,20 L11,20 C11.5522847,20 12,20.4477153 12,21 C12,21.5522847 11.5522847,22 11,22 L6,22 C3.790861,22 2,20.209139 2,18 Z" id="Combined-Shape" fill="#141414" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

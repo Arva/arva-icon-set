@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon / check / thin / rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-/-check-/-thin-/-rounded">
+            <g id="Grid"></g>
+            <path d="M9,18.2928932 L21.6464466,5.64644661 C21.8417088,5.45118446 22.1582912,5.45118446 22.3535534,5.64644661 C22.5488155,5.84170876 22.5488155,6.15829124 22.3535534,6.35355339 L9.35355339,19.3535534 C9.15829124,19.5488155 8.84170876,19.5488155 8.64644661,19.3535534 L1.64644661,12.3535534 C1.45118446,12.1582912 1.45118446,11.8417088 1.64644661,11.6464466 C1.84170876,11.4511845 2.15829124,11.4511845 2.35355339,11.6464466 L9,18.2928932 Z" id="Line" fill="#141414" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

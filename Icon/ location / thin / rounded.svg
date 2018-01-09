@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon / location / thin / rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-/-location-/-thin-/-rounded">
+            <g id="Grid"></g>
+            <path d="M2.93596218,11 L11,11 C12.1045695,11 13,11.8954305 13,13 L13,21.0640378 L20.5480284,3.45197164 L2.93596218,11 Z M0.303040351,11.0404275 L21.3030404,2.04042748 C21.7179013,1.86262992 22.1373701,2.28209866 21.9595725,2.69695965 L12.9595725,23.6969596 C12.745388,24.1967235 12,24.0437269 12,23.5 L12,13 C12,12.4477153 11.5522847,12 11,12 L0.5,12 C-0.0437268932,12 -0.196723521,11.254612 0.303040351,11.0404275 Z" id="Rectangle" fill="#141414" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon / calendar / bold / rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-/-calendar-/-bold-/-rounded">
+            <g id="Grid"></g>
+            <path d="M4,4 L4,20 L20,20 L20,4 L4,4 Z M4,2 L20,2 C21.1045695,2 22,2.8954305 22,4 L22,20 C22,21.1045695 21.1045695,22 20,22 L4,22 C2.8954305,22 2,21.1045695 2,20 L2,4 C2,2.8954305 2.8954305,2 4,2 Z" id="Rectangle-25" fill="#141414" fill-rule="nonzero"></path>
+            <rect id="Rectangle-27" fill="#141414" x="4" y="8" width="16" height="2"></rect>
+            <path d="M14,1 L14,5 C14,5.55228475 14.4477153,6 15,6 C15.5522847,6 16,5.55228475 16,5 L16,1 C16,0.44771525 15.5522847,-2.22044605e-16 15,-2.22044605e-16 C14.4477153,-2.22044605e-16 14,0.44771525 14,1 Z" id="Line-2" fill="#141414" fill-rule="nonzero"></path>
+            <path d="M8,1 L8,5 C8,5.55228475 8.44771525,6 9,6 C9.55228475,6 10,5.55228475 10,5 L10,1 C10,0.44771525 9.55228475,-2.22044605e-16 9,-2.22044605e-16 C8.44771525,-2.22044605e-16 8,0.44771525 8,1 Z" id="Line-2" fill="#141414" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

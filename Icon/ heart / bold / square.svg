@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon / heart / bold / square</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-/-heart-/-bold-/-square">
+            <g id="Grid"></g>
+            <path d="M13,8.5 L11,8.5 C11,6.01471863 8.98528137,4 6.5,4 C4.01471863,4 2,6.01471863 2,8.5 C2,12.4172616 5.47639929,16.8417698 12.5633368,21.6737727 L11.4366632,23.3262273 C3.85693404,18.1582302 0,13.2494051 0,8.5 C0,4.91014913 2.91014913,2 6.5,2 C10.0898509,2 13,4.91014913 13,8.5 Z" id="Oval-13" fill="#141414" fill-rule="nonzero"></path>
+            <path d="M12.5633368,23.3262273 L11.4366632,21.6737727 C18.5236007,16.8417698 22,12.4172616 22,8.5 C22,6.01471863 19.9852814,4 17.5,4 C15.0147186,4 13,6.01471863 13,8.5 L11,8.5 C11,4.91014913 13.9101491,2 17.5,2 C21.0898509,2 24,4.91014913 24,8.5 C24,13.2494051 20.143066,18.1582302 12.5633368,23.3262273 Z" id="Oval-13-Copy" fill="#141414" fill-rule="nonzero"></path>
+            <polygon id="Rectangle-20" fill="#141414" points="12 22 13 23 12 23.7000008 11 23"></polygon>
+            <rect id="Rectangle-21" fill="#141414" x="11" y="8" width="2" height="1"></rect>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon / send / thin / rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-/-send-/-thin-/-rounded">
+            <g id="Grid"></g>
+            <path d="M3.45559904,3.48107721 L6.71572906,11.223886 C6.92470139,11.7201953 6.92470139,12.2798047 6.71572906,12.776114 L3.45559904,20.5189228 L22.286902,12 L3.45559904,3.48107721 Z M2.70608393,2.04444604 L23.7060839,11.544446 C24.097972,11.7217287 24.097972,12.2782713 23.7060839,12.455554 L2.70608393,21.955554 C2.29183822,22.1429508 1.86274773,21.7250036 2.03918231,21.3059715 L5.79409368,12.388057 C5.89857985,12.1399024 5.89857985,11.8600976 5.79409368,11.611943 L2.03918231,2.6940285 C1.86274773,2.27499636 2.29183822,1.85704917 2.70608393,2.04444604 Z" id="Rectangle" fill="#141414" fill-rule="nonzero"></path>
+            <polygon id="Line" fill="#141414" fill-rule="nonzero" points="6 12.5 6 11.5 22.5 11.5 22.5 12.5"></polygon>
+        </g>
+    </g>
+</svg>

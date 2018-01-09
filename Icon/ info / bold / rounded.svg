@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon / info / bold / rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-/-info-/-bold-/-rounded">
+            <g id="Grid"></g>
+            <path d="M12,24 C5.372583,24 0,18.627417 0,12 C0,5.372583 5.372583,0 12,0 C18.627417,0 24,5.372583 24,12 C24,18.627417 18.627417,24 12,24 Z M12,22 C17.5228475,22 22,17.5228475 22,12 C22,6.4771525 17.5228475,2 12,2 C6.4771525,2 2,6.4771525 2,12 C2,17.5228475 6.4771525,22 12,22 Z" id="Combined-Shape" fill="#141414"></path>
+            <path d="M11,16 L11,11 L10,11 C9.44771525,11 9,10.5522847 9,10 C9,9.44771525 9.44771525,9 10,9 L12,9 C12.5522847,9 13,9.44771525 13,10 L13,16 L14,16 C14.5522847,16 15,16.4477153 15,17 C15,17.5522847 14.5522847,18 14,18 L10,18 C9.44771525,18 9,17.5522847 9,17 C9,16.4477153 9.44771525,16 10,16 L11,16 Z" id="Combined-Shape" fill="#141414" fill-rule="nonzero"></path>
+            <circle id="Oval-2" fill="#141414" cx="12" cy="6.5" r="1.5"></circle>
+        </g>
+    </g>
+</svg>

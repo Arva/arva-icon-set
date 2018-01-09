@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon / tablet / bold / rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-/-tablet-/-bold-/-rounded">
+            <g id="Grid"></g>
+            <path d="M4,2 L4,22 L20,22 L20,2 L4,2 Z M4,0 L20,0 C21.1045695,-2.02906125e-16 22,0.8954305 22,2 L22,22 C22,23.1045695 21.1045695,24 20,24 L4,24 C2.8954305,24 2,23.1045695 2,22 L2,2 C2,0.8954305 2.8954305,2.02906125e-16 4,0 Z" id="Rectangle-2" fill="#141414" fill-rule="nonzero"></path>
+            <circle id="Oval" fill="#141414" cx="12" cy="20" r="1"></circle>
+        </g>
+    </g>
+</svg>

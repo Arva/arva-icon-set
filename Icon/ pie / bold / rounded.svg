@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon / pie / bold / rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-/-pie-/-bold-/-rounded">
+            <g id="Grid"></g>
+            <path d="M12,22 C6.4771525,22 2,17.5228475 2,12 C2,6.4771525 6.4771525,2 12,2 C12.5522847,2 13,2.44771525 13,3 L13,11 L21,11 C21.5522847,11 22,11.4477153 22,12 C22,17.5228475 17.5228475,22 12,22 Z M4,12 C4,16.418278 7.581722,20 12,20 C16.0796177,20 19.4460082,16.9463116 19.9381062,13 L13,13 C11.8954305,13 11,12.1045695 11,11 L11,4.06189375 C7.05368842,4.55399184 4,7.92038235 4,12 Z" id="Oval" fill="#141414" fill-rule="nonzero"></path>
+            <path d="M24,9 C24,9.55228475 23.5522847,10 23,10 L16,10 C14.8954305,10 14,9.1045695 14,8 L14,1 C14,0.44771525 14.4477153,0 15,0 C19.9705627,0 24,4.02943725 24,9 Z M16,2.07088886 L16,8 L21.9291111,8 C21.4905984,4.93430884 19.0656912,2.50940162 16,2.07088886 Z" id="Oval-2" fill="#141414" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>
